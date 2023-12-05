@@ -1,0 +1,131 @@
+.bg-1{
+    background: #fe5b29;
+}
+ .col-sm-4{
+    padding: 10px 0;
+}
+a{
+    color: #fff;
+}
+.navbar-brand{
+    font-family: Pixelify sans;
+    font-size: 30px;
+    font-weight: bold;
+}
+.bg-2{
+    background: #000;
+}
+ .navbar-nav .nav-item .nav-link{
+    color: #fff;
+}
+.navbar-nav .nav-item .nav-link:hover{
+    color: #fe5b29;
+}
+.banner-title{
+    margin-top: 60px;
+    font-size: 80px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: 800;
+}
+.text-1{
+    color: #fe5b29;
+}
+.button a{
+    font-size: 18px;
+    color: #fcf8f8;
+}
+.btn-color{
+    background: #fe5b29;
+}
+.img-1{
+    width: 120%;
+}
+.about-section{
+    padding: 40px 0;
+    margin: 40px 0;
+}
+.img-2{
+    width: 100%;
+}
+.about-title{
+    font-weight: 800;
+}
+.search-section{
+    padding: 30px 0;
+    margin: 30px 0;
+}
+.gallery-title{
+    font-weight: 800;
+}
+.choose-section{
+    padding: 40px 0;
+    margin: 30px 0;
+}
+.font{
+    font-size: 30px;
+}
+/* client-section */
+.client-title{
+    font-weight: bold;
+    margin: 30px 0;
+}
+.client-card{
+    width: 60%;
+    float: left;
+    background-color: #fff;
+    height: auto;
+    padding: 50px 20px;
+    margin-left: 100px;
+    box-shadow: 0px 0px 10px 10px #ebebea;;
+}
+.client-img{
+    width: 50%;
+    text-align: center;
+    position: relative;
+    top: -80px;
+}
+.client-name{
+    width: 100%;
+    float: left;
+    color: #000;
+    font-weight: bold;
+    font-size: 24px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    letter-spacing: 1.5px;
+}
+.client-text{
+    width: 100%;
+    float: left;
+    font-size: 16px;
+    color: #282828;
+    margin: 0px;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+/* contact-section */
+.form-section{
+    background-color: #fe5b29;
+    padding: 70px 0;
+    border-top-right-radius: 540px;
+    border-top-left-radius: 540px;
+}
+.form{
+    margin: 40px 250px;
+}
+/* footer-section */
+.footer-logo{
+    font-family: Pixelify Sans;
+    letter-spacing: 1.5px;
+}
+.contact-icons{
+    letter-spacing: 5px;
+    color: #fff;
+    font-size: 20px;
+}
+.bg-light{
+    border-radius: 100%;
+    line-height: 28px;
+    width: 30px;
+    height: 30px;
+  text-align: center;
+}

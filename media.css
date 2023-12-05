@@ -1,0 +1,27 @@
+@media (max-width: 600px) {
+  .banner-title {
+    font-size: 48px;
+    text-align: center;
+    margin: 0;
+  }
+  .img-1 {
+    width: 100%;
+  }
+  .choose-section {
+    padding-left: 15px;
+  }
+  .dropdown{
+    margin: 10px 0;
+  }
+  .client-card{
+    margin-bottom: 50px;
+    margin-left: 0px;
+    width: 100%;
+  }
+  .form{
+    margin: auto;
+  }
+  .footer-content{
+    margin-top: 15px;
+  }
+}
